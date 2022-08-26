@@ -51,7 +51,7 @@ class MyProfile extends HTMLElement {
                 <img src="./images/bookmark.png" alt="">
             </div>
         </div>
-        <h4 class="likes">665 likes</h4>
+        <h4 class="likes">666 likes</h4>
         <h4 class="message"><b>kazuracollins</b> i hate programming <span>#css</span> <span>#html</span> <span>#javascript</span></h4>
         <h4 class="comments">View all 88k comments</h4>
     </div>
